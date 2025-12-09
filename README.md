@@ -59,10 +59,7 @@ cd cometchat-app-react
 # 3. Install dependencies
 npm install
 
-# 4. Create your .env file based on .env.example
-# Add your own CometChat App ID, Region, and Auth Key
-
-# 5. Start the project
+# 4. Start the project
 npm start
 
 ```
@@ -105,3 +102,4 @@ Lakshay Sharma
 ## Final Note
 Thank you CometChat team for the opportunity.
 This assignment helped me understand the platform deeply, from user onboarding to UI customization and real-time messaging integration.
+
